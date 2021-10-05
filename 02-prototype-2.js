@@ -1,3 +1,4 @@
+// Constructor function
 function DogObject(name, age) {
   this.name = name;
   this.age = age;
