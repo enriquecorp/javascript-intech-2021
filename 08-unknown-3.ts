@@ -6,3 +6,4 @@ const unknownFoo: unknownType = {
 
 // Error: Object is of type 'unknown' 🤷‍♂️
 // console.log(unknownFoo.prop2.foo);
+export {};
