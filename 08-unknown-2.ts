@@ -1,3 +1,4 @@
+// ANY looks useful here!!!!
 type anyType = { prop1: any; prop2: any };
 
 const anyFoo: anyType = {

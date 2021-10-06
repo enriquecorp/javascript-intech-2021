@@ -5,4 +5,4 @@ const greeting = function (firstname, lastname, surename) {
   //   }
   return "Hello " + firstname + " " + lastname + " " + surename;
 };
-greeting("Enrique", "Ortuno");
+console.log(greeting("Enrique", "Ortuno"));
